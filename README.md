@@ -4,7 +4,7 @@ This repository contains machine learning algorithms, implemented in phython for
 
 **Algorithms Implemented:**
 
-[Linear regression](Linear_Regression.ipynb)
+[Linear classifier](Linear_Classifier.ipynb)
 
 [Logistic regression](Logistic_Regression.ipynb)
 
